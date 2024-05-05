@@ -5,6 +5,7 @@ Titanic passenger survival using random forest classifier
 This project aims to predict the survival of passengers aboard the Titanic using machine learning techniques. The dataset used for this project is sourced from Kaggle's Titanic: Machine Learning from Disaster competition.
 
 ## Dataset
+You can download the original dataset from [Kaggle](https://www.kaggle.com/competitions/titanic).
 - `train.csv`: Raw dataset containing passenger information for training the model.
 - `test.csv`: Raw dataset containing passenger information for evaluating the model's performance.
   
