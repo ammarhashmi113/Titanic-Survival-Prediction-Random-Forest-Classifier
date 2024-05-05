@@ -9,11 +9,11 @@ This project aims to predict the survival of passengers aboard the Titanic using
 - `test.csv`: Raw dataset containing passenger information for evaluating the model's performance.
   
 ## Contents
-- 'train.csv':** Raw dataset containing passenger information.
-- 'test.csv':** Raw dataset containing passenger information.
-- 'Titanic_Survival_Prediction.ipynb:' Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
-- 'README.md:' Documentation providing an overview of the project.
-- 'Project_Report.pdf:' PDF file containing a detailed report about the project.
+- `train.csv`:** Raw dataset containing passenger information.
+- `test.csv`:** Raw dataset containing passenger information.
+- `Titanic_Survival_Prediction.ipynb`: Jupyter notebook containing the code for data preprocessing, model training, and evaluation.
+- `README.md`: Documentation providing an overview of the project.
+- `Project_Report.pdf`: PDF file containing a detailed report about the project.
 
 ## Data Preprocessing
 - Filled missing values in the "Age", "Cabin", and "Embarked" columns.
